@@ -1,7 +1,7 @@
 #  Algoritmo e Lógica de Programação | Udemy Academy
 
 Bem-vindo(a) ao meu repositório de estudos do curso de **Algoritmo e Lógica de Programação** da Udemy Academy!  
-Aqui, você encontrará os exercícios práticos e desafios que realizei durante o curso, utilizando as linguagens **Pseudocódigo**, **C**, **C++**, **C#** e **Python**.
+Aqui, você encontrará os exercícios práticos e desafios que realizei durante o curso, utilizando as linguagens **C**, **C++**, **C#** e **Python**.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -18,7 +18,7 @@ Este repositório é o reflexo do meu aprendizado durante o curso **Algoritmo e 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagens**: Pseudocódigo 💻 | C 🧑‍💻 | C++ 🔧 | C# ⚙️ | Python 🐍
+- **Linguagens**:  C 🧑‍💻 | C++ 🔧 | C# ⚙️ | Python 🐍
 - **IDEs**: PyCharm 💻 | Code::Blocks 🖥️ | VisualG 💻
 
 ## 📢 Contato
